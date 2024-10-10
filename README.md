@@ -1,6 +1,5 @@
-<p align="center"><a href="https://cloudwolf.net"><img src="https://static.cloudwolf.net/static/wolf-circle.png" alt="my website" width=200 height=200></a></p>
 
-### Hello World! 🌏 I'm Ikhsan - aka. Accalina 👋
+### Hello World! 🌏 I'm [Ikhsan](https://cloudwolf.net) - aka. [Accalina](https://cloudwolf.net) 👋
 ```sh
 $ whoami
 > Im a Software Engineer, DevOps, and Cybersecurity enthusiast
